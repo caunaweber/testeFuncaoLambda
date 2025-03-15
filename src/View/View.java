@@ -23,7 +23,7 @@ public class View {
     }
 
     public static void solicitaDescricao(){
-        System.out.println("Digite o descrição da compra: ");
+        System.out.println("Digite a descrição da compra: ");
     }
 
     public static void solicitaPreco(){
